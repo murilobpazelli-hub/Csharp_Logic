@@ -1,0 +1,7 @@
+C:\Users\murilo.pbraz\Documents\C#\pizza_time\pizza_time\bin\Debug\pizza_time.exe.config
+C:\Users\murilo.pbraz\Documents\C#\pizza_time\pizza_time\bin\Debug\pizza_time.exe
+C:\Users\murilo.pbraz\Documents\C#\pizza_time\pizza_time\bin\Debug\pizza_time.pdb
+C:\Users\murilo.pbraz\Documents\C#\pizza_time\pizza_time\obj\Debug\pizza_time.csproj.AssemblyReference.cache
+C:\Users\murilo.pbraz\Documents\C#\pizza_time\pizza_time\obj\Debug\pizza_time.csproj.CoreCompileInputs.cache
+C:\Users\murilo.pbraz\Documents\C#\pizza_time\pizza_time\obj\Debug\pizza_time.exe
+C:\Users\murilo.pbraz\Documents\C#\pizza_time\pizza_time\obj\Debug\pizza_time.pdb

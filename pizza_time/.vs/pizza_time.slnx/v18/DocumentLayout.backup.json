@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\murilo.pbraz\\Documents\\C#\\pizza_time\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BDF0C0-040B-41E9-9B64-7A2B1E8C4162}|pizza_time\\pizza_time.csproj|c:\\users\\murilo.pbraz\\documents\\c#\\pizza_time\\pizza_time\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BDF0C0-040B-41E9-9B64-7A2B1E8C4162}|pizza_time\\pizza_time.csproj|solutionrelative:pizza_time\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\murilo.pbraz\\Documents\\C#\\pizza_time\\pizza_time\\Program.cs",
+              "RelativeDocumentMoniker": "pizza_time\\Program.cs",
+              "ToolTip": "C:\\Users\\murilo.pbraz\\Documents\\C#\\pizza_time\\pizza_time\\Program.cs",
+              "RelativeToolTip": "pizza_time\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T13:49:27.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

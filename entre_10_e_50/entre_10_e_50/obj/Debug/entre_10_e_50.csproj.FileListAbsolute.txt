@@ -1,0 +1,7 @@
+C:\Users\murilo.pbraz\Documents\C#\entre_10_e_50\entre_10_e_50\bin\Debug\entre_10_e_50.exe.config
+C:\Users\murilo.pbraz\Documents\C#\entre_10_e_50\entre_10_e_50\bin\Debug\entre_10_e_50.exe
+C:\Users\murilo.pbraz\Documents\C#\entre_10_e_50\entre_10_e_50\bin\Debug\entre_10_e_50.pdb
+C:\Users\murilo.pbraz\Documents\C#\entre_10_e_50\entre_10_e_50\obj\Debug\entre_10_e_50.csproj.AssemblyReference.cache
+C:\Users\murilo.pbraz\Documents\C#\entre_10_e_50\entre_10_e_50\obj\Debug\entre_10_e_50.csproj.CoreCompileInputs.cache
+C:\Users\murilo.pbraz\Documents\C#\entre_10_e_50\entre_10_e_50\obj\Debug\entre_10_e_50.exe
+C:\Users\murilo.pbraz\Documents\C#\entre_10_e_50\entre_10_e_50\obj\Debug\entre_10_e_50.pdb

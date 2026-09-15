@@ -1,0 +1,7 @@
+C:\Users\murilo.pbraz\Documents\C#\maior_entre_todos\maior_entre_todos\bin\Debug\maior_entre_todos.exe.config
+C:\Users\murilo.pbraz\Documents\C#\maior_entre_todos\maior_entre_todos\bin\Debug\maior_entre_todos.exe
+C:\Users\murilo.pbraz\Documents\C#\maior_entre_todos\maior_entre_todos\bin\Debug\maior_entre_todos.pdb
+C:\Users\murilo.pbraz\Documents\C#\maior_entre_todos\maior_entre_todos\obj\Debug\maior_entre_todos.csproj.AssemblyReference.cache
+C:\Users\murilo.pbraz\Documents\C#\maior_entre_todos\maior_entre_todos\obj\Debug\maior_entre_todos.csproj.CoreCompileInputs.cache
+C:\Users\murilo.pbraz\Documents\C#\maior_entre_todos\maior_entre_todos\obj\Debug\maior_entre_todos.exe
+C:\Users\murilo.pbraz\Documents\C#\maior_entre_todos\maior_entre_todos\obj\Debug\maior_entre_todos.pdb
