@@ -1,0 +1,7 @@
+C:\Users\murilo.pbraz\Documents\C#\Wine_stock\Wine_stock\bin\Debug\Wine_stock.exe.config
+C:\Users\murilo.pbraz\Documents\C#\Wine_stock\Wine_stock\bin\Debug\Wine_stock.exe
+C:\Users\murilo.pbraz\Documents\C#\Wine_stock\Wine_stock\bin\Debug\Wine_stock.pdb
+C:\Users\murilo.pbraz\Documents\C#\Wine_stock\Wine_stock\obj\Debug\Wine_stock.csproj.AssemblyReference.cache
+C:\Users\murilo.pbraz\Documents\C#\Wine_stock\Wine_stock\obj\Debug\Wine_stock.csproj.CoreCompileInputs.cache
+C:\Users\murilo.pbraz\Documents\C#\Wine_stock\Wine_stock\obj\Debug\Wine_stock.exe
+C:\Users\murilo.pbraz\Documents\C#\Wine_stock\Wine_stock\obj\Debug\Wine_stock.pdb

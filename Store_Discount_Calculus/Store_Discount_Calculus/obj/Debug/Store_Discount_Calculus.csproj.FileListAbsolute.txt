@@ -1,0 +1,7 @@
+C:\Users\murilo.pbraz\Documents\C#\Store_Discount_Calculus\Store_Discount_Calculus\obj\Debug\Store_Discount_Calculus.csproj.AssemblyReference.cache
+C:\Users\murilo.pbraz\Documents\C#\Store_Discount_Calculus\Store_Discount_Calculus\obj\Debug\Store_Discount_Calculus.csproj.CoreCompileInputs.cache
+C:\Users\murilo.pbraz\Documents\C#\Store_Discount_Calculus\Store_Discount_Calculus\bin\Debug\Store_Discount_Calculus.exe.config
+C:\Users\murilo.pbraz\Documents\C#\Store_Discount_Calculus\Store_Discount_Calculus\bin\Debug\Store_Discount_Calculus.exe
+C:\Users\murilo.pbraz\Documents\C#\Store_Discount_Calculus\Store_Discount_Calculus\bin\Debug\Store_Discount_Calculus.pdb
+C:\Users\murilo.pbraz\Documents\C#\Store_Discount_Calculus\Store_Discount_Calculus\obj\Debug\Store_Discount_Calculus.exe
+C:\Users\murilo.pbraz\Documents\C#\Store_Discount_Calculus\Store_Discount_Calculus\obj\Debug\Store_Discount_Calculus.pdb

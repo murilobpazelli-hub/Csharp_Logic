@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\murilo.pbraz\\Documents\\C#\\Wine_stock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB69F12-2B20-4378-9727-2D1DDE595D0B}|Wine_stock\\Wine_stock.csproj|c:\\users\\murilo.pbraz\\documents\\c#\\wine_stock\\wine_stock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB69F12-2B20-4378-9727-2D1DDE595D0B}|Wine_stock\\Wine_stock.csproj|solutionrelative:wine_stock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\murilo.pbraz\\Documents\\C#\\Wine_stock\\Wine_stock\\Program.cs",
+              "RelativeDocumentMoniker": "Wine_stock\\Program.cs",
+              "ToolTip": "C:\\Users\\murilo.pbraz\\Documents\\C#\\Wine_stock\\Wine_stock\\Program.cs*",
+              "RelativeToolTip": "Wine_stock\\Program.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T13:20:52.636Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
