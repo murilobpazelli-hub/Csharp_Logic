@@ -1,0 +1,7 @@
+C:\Users\murilo.pbraz\Documents\C#\Guessing_game\Guessing_game\bin\Debug\Guessing_game.exe.config
+C:\Users\murilo.pbraz\Documents\C#\Guessing_game\Guessing_game\bin\Debug\Guessing_game.exe
+C:\Users\murilo.pbraz\Documents\C#\Guessing_game\Guessing_game\bin\Debug\Guessing_game.pdb
+C:\Users\murilo.pbraz\Documents\C#\Guessing_game\Guessing_game\obj\Debug\Guessing_game.csproj.AssemblyReference.cache
+C:\Users\murilo.pbraz\Documents\C#\Guessing_game\Guessing_game\obj\Debug\Guessing_game.csproj.CoreCompileInputs.cache
+C:\Users\murilo.pbraz\Documents\C#\Guessing_game\Guessing_game\obj\Debug\Guessing_game.exe
+C:\Users\murilo.pbraz\Documents\C#\Guessing_game\Guessing_game\obj\Debug\Guessing_game.pdb
