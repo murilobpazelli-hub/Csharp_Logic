@@ -1,0 +1,7 @@
+C:\Users\murilo.pbraz\Documents\C#\ListActivities_2\ListActivities_2\bin\Debug\ListActivities_2.exe.config
+C:\Users\murilo.pbraz\Documents\C#\ListActivities_2\ListActivities_2\bin\Debug\ListActivities_2.exe
+C:\Users\murilo.pbraz\Documents\C#\ListActivities_2\ListActivities_2\bin\Debug\ListActivities_2.pdb
+C:\Users\murilo.pbraz\Documents\C#\ListActivities_2\ListActivities_2\obj\Debug\ListActivities_2.csproj.AssemblyReference.cache
+C:\Users\murilo.pbraz\Documents\C#\ListActivities_2\ListActivities_2\obj\Debug\ListActivities_2.csproj.CoreCompileInputs.cache
+C:\Users\murilo.pbraz\Documents\C#\ListActivities_2\ListActivities_2\obj\Debug\ListActivities_2.exe
+C:\Users\murilo.pbraz\Documents\C#\ListActivities_2\ListActivities_2\obj\Debug\ListActivities_2.pdb

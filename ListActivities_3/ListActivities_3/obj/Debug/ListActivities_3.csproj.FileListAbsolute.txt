@@ -1,0 +1,7 @@
+C:\Users\murilo.pbraz\Documents\C#\ListActivities_3\ListActivities_3\bin\Debug\ListActivities_3.exe.config
+C:\Users\murilo.pbraz\Documents\C#\ListActivities_3\ListActivities_3\bin\Debug\ListActivities_3.exe
+C:\Users\murilo.pbraz\Documents\C#\ListActivities_3\ListActivities_3\bin\Debug\ListActivities_3.pdb
+C:\Users\murilo.pbraz\Documents\C#\ListActivities_3\ListActivities_3\obj\Debug\ListActivities_3.csproj.AssemblyReference.cache
+C:\Users\murilo.pbraz\Documents\C#\ListActivities_3\ListActivities_3\obj\Debug\ListActivities_3.csproj.CoreCompileInputs.cache
+C:\Users\murilo.pbraz\Documents\C#\ListActivities_3\ListActivities_3\obj\Debug\ListActivities_3.exe
+C:\Users\murilo.pbraz\Documents\C#\ListActivities_3\ListActivities_3\obj\Debug\ListActivities_3.pdb
