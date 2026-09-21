@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\murilo.pbraz\\Documents\\C#\\Cadastro_de_Bandas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCC915D-081D-401B-8AFA-F8E86AC0F8F4}|Cadastro_de_Bandas\\Cadastro_de_Bandas.csproj|c:\\users\\murilo.pbraz\\documents\\c#\\cadastro_de_bandas\\cadastro_de_bandas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCC915D-081D-401B-8AFA-F8E86AC0F8F4}|Cadastro_de_Bandas\\Cadastro_de_Bandas.csproj|solutionrelative:cadastro_de_bandas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\murilo.pbraz\\Documents\\C#\\Cadastro_de_Bandas\\Cadastro_de_Bandas\\Program.cs",
+              "RelativeDocumentMoniker": "Cadastro_de_Bandas\\Program.cs",
+              "ToolTip": "C:\\Users\\murilo.pbraz\\Documents\\C#\\Cadastro_de_Bandas\\Cadastro_de_Bandas\\Program.cs*",
+              "RelativeToolTip": "Cadastro_de_Bandas\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T13:25:04.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

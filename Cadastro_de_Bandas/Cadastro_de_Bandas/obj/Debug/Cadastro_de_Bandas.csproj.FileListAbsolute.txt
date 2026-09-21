@@ -1,0 +1,7 @@
+C:\Users\murilo.pbraz\Documents\C#\Cadastro_de_Bandas\Cadastro_de_Bandas\bin\Debug\Cadastro_de_Bandas.exe.config
+C:\Users\murilo.pbraz\Documents\C#\Cadastro_de_Bandas\Cadastro_de_Bandas\bin\Debug\Cadastro_de_Bandas.exe
+C:\Users\murilo.pbraz\Documents\C#\Cadastro_de_Bandas\Cadastro_de_Bandas\bin\Debug\Cadastro_de_Bandas.pdb
+C:\Users\murilo.pbraz\Documents\C#\Cadastro_de_Bandas\Cadastro_de_Bandas\obj\Debug\Cadastro_de_Bandas.csproj.AssemblyReference.cache
+C:\Users\murilo.pbraz\Documents\C#\Cadastro_de_Bandas\Cadastro_de_Bandas\obj\Debug\Cadastro_de_Bandas.csproj.CoreCompileInputs.cache
+C:\Users\murilo.pbraz\Documents\C#\Cadastro_de_Bandas\Cadastro_de_Bandas\obj\Debug\Cadastro_de_Bandas.exe
+C:\Users\murilo.pbraz\Documents\C#\Cadastro_de_Bandas\Cadastro_de_Bandas\obj\Debug\Cadastro_de_Bandas.pdb
