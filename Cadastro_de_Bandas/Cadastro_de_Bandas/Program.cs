@@ -185,7 +185,7 @@ namespace Cadastro_de_Bandas
                 Console.WriteLine("\n" + duracao);
                 Console.WriteLine("\n" + premiacoes);
                 Thread.Sleep(3000);
-                Console.Clear();
+                Console.Clear();1
             }
 
         }

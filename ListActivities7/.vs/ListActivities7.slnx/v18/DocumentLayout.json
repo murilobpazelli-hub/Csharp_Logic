@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\murilo.pbraz\\Documents\\C#\\ListActivities7\\",
+  "WorkspaceRootPath": "C:\\Users\\murilo.pbraz\\Documents\\GitHub\\Csharp_Logic\\ListActivities7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{36194002-1D69-428D-A11E-8487B9D47C5C}|ListActivities7\\ListActivities7.csproj|c:\\users\\murilo.pbraz\\documents\\c#\\listactivities7\\listactivities7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36194002-1D69-428D-A11E-8487B9D47C5C}|ListActivities7\\ListActivities7.csproj|solutionrelative:listactivities7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\murilo.pbraz\\Documents\\GitHub\\Csharp_Logic\\ListActivities7\\ListActivities7\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ListActivities7\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\murilo.pbraz\\Documents\\C#\\ListActivities7\\ListActivities7\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\murilo.pbraz\\Documents\\GitHub\\Csharp_Logic\\ListActivities7\\ListActivities7\\Program.cs",
               "RelativeDocumentMoniker": "ListActivities7\\Program.cs",
-              "ToolTip": "C:\\Users\\murilo.pbraz\\Documents\\C#\\ListActivities7\\ListActivities7\\Program.cs",
+              "ToolTip": "C:\\Users\\murilo.pbraz\\Documents\\GitHub\\Csharp_Logic\\ListActivities7\\ListActivities7\\Program.cs",
               "RelativeToolTip": "ListActivities7\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwAQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-21T12:41:58.183Z",
               "EditorCaption": ""

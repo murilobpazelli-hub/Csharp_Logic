@@ -22,17 +22,8 @@ namespace ListActivities7
             Console.WriteLine("Digite o valor B: ");
             valorB = int.Parse(Console.ReadLine());
 
-            if (valorA != valorB)
-            {
-                valorA = valorB;
-            }
-            if (valorB != valorA)
-            {
-
-                valorB = valorA;
-
-                
-            }
+          
+            
             Console.WriteLine("O Valor A é igual a " + valorA + " e o Valor B é igual a " + valorB);
         }
     }
