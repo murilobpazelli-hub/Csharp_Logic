@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\murilo.pbraz\\source\\repos\\Cl\u00EDnica_Podologia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E55FFCD1-53A4-489D-BBEC-6178CE340F68}|Cl\u00EDnica_Podologia\\Cl\u00EDnica_Podologia.csproj|c:\\users\\murilo.pbraz\\source\\repos\\cl\u00EDnica_podologia\\cl\u00EDnica_podologia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E55FFCD1-53A4-489D-BBEC-6178CE340F68}|Cl\u00EDnica_Podologia\\Cl\u00EDnica_Podologia.csproj|solutionrelative:cl\u00EDnica_podologia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\murilo.pbraz\\source\\repos\\Cl\u00EDnica_Podologia\\Cl\u00EDnica_Podologia\\Program.cs",
+              "RelativeDocumentMoniker": "Cl\u00EDnica_Podologia\\Program.cs",
+              "ToolTip": "C:\\Users\\murilo.pbraz\\source\\repos\\Cl\u00EDnica_Podologia\\Cl\u00EDnica_Podologia\\Program.cs",
+              "RelativeToolTip": "Cl\u00EDnica_Podologia\\Program.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAswIoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T11:41:21.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
