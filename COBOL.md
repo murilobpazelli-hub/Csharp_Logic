@@ -77,5 +77,5 @@ Grandes empresas: \*
 
 
 Quinto Slide:
-Referências
+Imagens de um algoritmo COBOL;
 
